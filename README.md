@@ -1,4 +1,4 @@
-# Vagrant ALM - Application Lifecicle Management for labs and tests
+# Vagrant ALM - Application Lifecycle Management for labs and tests
 
 This project aims to build a [ALM](https://en.wikipedia.org/wiki/Application_lifecycle_management) infrastructure within a virtual environment using [Vagrant](https://www.vagrantup.com/) and provisioning with [Ansible](https://www.ansible.com/).
 
